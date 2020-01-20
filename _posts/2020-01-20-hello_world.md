@@ -17,7 +17,7 @@ Another reason for blogging is that it helps you clarify your thoughts and helps
 
 ![Who? Me?](/images/screenshot_5.png)
 
-Also you, the person reading this should start blogging! I want to read your blog! I want to know the cool things you are doing! Just like how Jeremy and Rachel and blogging about cool things, please start blogging!
+Also you, the person reading this should start blogging! I want to read your blog! I want to know the cool things you are doing! Just like how Jeremy and Rachel and blogging about cool things, please start blogging! Read Jeremy's [tutorial](https://www.fast.ai/2020/01/16/fast_template/)
 
 ## Who am I and what do I do
 
